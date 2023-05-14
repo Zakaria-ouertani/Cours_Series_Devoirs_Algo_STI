@@ -1,4 +1,3 @@
-# Cours_Series_Devoirs_Algo_STI
 - 📂 __Cours\_Series\_Devoirs\_Algo\_STI__
    - 📂 __Prog__
      - 📂 __Cours__
