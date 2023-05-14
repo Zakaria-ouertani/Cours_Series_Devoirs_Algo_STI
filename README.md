@@ -1,5 +1,5 @@
 # Cours_Series_Devoirs_Algo_STI
-- 📂 __C:\\Users\\Administrator\\Documents\\Gits\\Cours\_Series\_Devoirs\_Algo\_STI__
+- 📂 __Cours\_Series\_Devoirs\_Algo\_STI__
    - 📂 __Prog__
      - 📂 __Cours__
        - 📂 __Arithmetique__
