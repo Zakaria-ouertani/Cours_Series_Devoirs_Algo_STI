@@ -1,3 +1,5 @@
+# [Download All](https://github.com/Zakaria-ouertani/Cours_Series_Devoirs_Algo_STI/archive/refs/heads/master.zip)
+
 - 📂 __Cours\_Series\_Devoirs\_Algo\_STI__
    - 📂 __Prog__
      - 📂 __Cours__
